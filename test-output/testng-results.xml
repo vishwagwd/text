@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-15T05:00:18Z" name="Default suite" finished-at="2020-08-15T05:00:32Z" duration-ms="14790">
+    <groups>
+    </groups>
+    <test started-at="2020-08-15T05:00:18Z" name="Default test" finished-at="2020-08-15T05:00:32Z" duration-ms="14790">
+      <class name="com.mobil.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mobil.qa.testcases.LoginPageTest@4b013c76]" started-at="2020-08-15T05:00:18Z" name="setup" finished-at="2020-08-15T05:00:31Z" duration-ms="12969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginpagetitletest()[pri:1, instance:com.mobil.qa.testcases.LoginPageTest@4b013c76]" started-at="2020-08-15T05:00:31Z" name="loginpagetitletest" finished-at="2020-08-15T05:00:31Z" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpagetitletest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mobil.qa.testcases.LoginPageTest@4b013c76]" started-at="2020-08-15T05:00:31Z" name="teardown" finished-at="2020-08-15T05:00:32Z" duration-ms="1725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mobil.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="mobilpro test suite" verbose="10" >
+
+	<listeners>
+      <listener class-name ="com.qa.Extentreport.listener.ExtentReportlistener"/>
+ 	 </listeners>
+	
+  <test name="mobilpro application test" >
+    <classes>
+       <class name="com.mobil.qa.testcases.PrintpopuppageTest" />
+          </classes>
+  </test>
+ 
+ </suite>
